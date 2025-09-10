@@ -1,0 +1,4 @@
+ex_lst = ['hi', 'how are you', 'bye', 'apple', 'zebra', 'dance']
+
+for s in (ex_lst);
+return
